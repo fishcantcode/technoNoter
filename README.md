@@ -1,2 +1,2 @@
 # technoNoter
-react native for AI note application.
+ AI note application using react native 
